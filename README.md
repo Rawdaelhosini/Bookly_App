@@ -5,6 +5,7 @@ Your gateway to a world of free & trending books!
 📚 About the App
 
 Bookly App is a sleek and modern Flutter application that allows users to:
+
 	•	Discover Free Books
 	•	Explore the Newest Releases
 	•	View detailed book information:
