@@ -1,16 +1,28 @@
-# bookly_app
+Bookly App
 
-A new Flutter project.
+Your gateway to a world of free & trending books!
 
-## Getting Started
+📚 About the App
 
-This project is a starting point for a Flutter application.
+Bookly App is a sleek and modern Flutter application that allows users to:
+	•	Discover Free Books
+	•	Explore the Newest Releases
+	•	View detailed book information:
+	•	✍️ Author
+	•	⭐ Rating
+	•	🧮 Review Count
+	•	Open & Read books via external links
+	•	Built with clean and scalable MVVM Architecture
+	•	Powered by Dio for efficient API handling
 
-A few resources to get you started if this is your first Flutter project:
+⸻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features
+	•	🔍 Browse a curated list of Free Books
+	•	🆕 Stay updated with the Newest Arrivals
+	•	📖 Access book details at a glance:
+	•	Book Title
+	•	Author Name
+	•	Rating & Rating Count
+	•	🔗 Click to Read books via external URLs
+	•	⚙️ Built with Flutter, Dart, Dio, and MVVM
