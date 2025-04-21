@@ -33,4 +33,16 @@ Bookly App is a sleek and modern Flutter application that allows users to:
 ![image](https://github.com/user-attachments/assets/bae49581-bbcd-4ef7-a19b-888db058eed9)
 
 
+📺 Demo Video
+https://drive.google.com/file/d/1zLV8qMeF_t7RzMtbu70z2RN5RCuz3DGC/view?usp=drivesdk
+
+
+🚀 Getting Started
+
+Prerequisites
+	•	Flutter SDK
+	•	Dart SDK
+	•	Android Studio or Visual Studio Code
+
+
  
