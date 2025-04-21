@@ -43,6 +43,7 @@ https://drive.google.com/file/d/1zLV8qMeF_t7RzMtbu70z2RN5RCuz3DGC/view?usp=drive
 🚀 Getting Started
 
 Prerequisites
+
 	•	Flutter SDK
 	•	Dart SDK
 	•	Android Studio or Visual Studio Code
